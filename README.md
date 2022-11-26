@@ -23,6 +23,8 @@ Under the hood this is a small systemd user service which implements the [search
 
 ### From source
 
+Ubuntu: `sudo apt install -y libglib2.0-dev`
+
 Install [rust](https://www.rust-lang.org/tools/install) then run
 
 ```console
